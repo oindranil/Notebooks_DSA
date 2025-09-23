@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Jupyter checkpoints (in case Colab adds them)
+.ipynb_checkpoints/
+README.md
