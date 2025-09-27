@@ -1,10 +1,6 @@
 # Lecture Notebooks - DSA
-<<<<<<< Updated upstream
 ### Creator: Indranil Ojha
 =======
-### Created by: Indranil Ojha
-
->>>>>>> Stashed changes
 This repository contains lecture notebooks for Data Structures & Algorithms (DSA).  
 All notebooks are in **one folder**, identified by problem number (LeetCode style).  
 
