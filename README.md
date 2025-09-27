@@ -22,7 +22,10 @@ All notebooks are in **one folder**, identified by problem number (LeetCode styl
 | LT033_Search_in_Rotated_Sorted_Array.ipynb | Search in Rotated Sorted Array |
 | LT035_Search_Insert_Position.ipynb | Search Insert Position |
 | LT056_Merge_Intervals.ipynb | Merge Intervals |
-| LT069_Sqrt_x.ipynb | Sqrt(x) |
+| LT062_Unique_Paths.ipynb | Unique Paths |
+| LT069_Sqrtx.ipynb | Sqrt(x) |
+| LT070_Climbing_Stairs.ipynb | Climbing Stairs |
+| LT072_Edit_Distance.ipynb | Edit Distance |
 | LT088_Merge_Sorted_Array.ipynb | Merge Sorted Array |
 | LT162_Find_Peak_Element.ipynb | Find Peak Element |
 | LT164_Maximum_Gap.ipynb | Maximum Gap |
@@ -32,10 +35,12 @@ All notebooks are in **one folder**, identified by problem number (LeetCode styl
 | LT207_Course_Schedule.ipynb | Course Schedule |
 | LT210_Course_Schedule_II.ipynb | Course Schedule II |
 | LT215_Kth_Largest_Element_in_an_Array.ipynb | Kth Largest Element in an Array |
+| LT221_Maximal_Square.ipynb | Maximal Square |
 | LT242_Valid_Anagram.ipynb | Valid Anagram |
 | LT249_Group_Shifted_Strings.ipynb | Group Shifted Strings |
 | LT252_Meeting_Rooms.ipynb | Meeting Rooms |
 | LT261_Graph_Valid_Tree.ipynb | Graph Valid Tree |
+| LT322_Coin_Change.ipynb | Coin Change |
 | LT324_Wiggle_Sort_II.ipynb | Wiggle Sort II |
 | LT347_Top_K_Frequent_Elements.ipynb | Top K Frequent Elements |
 | LT349_Intersection_of_Two_Arrays.ipynb | Intersection of Two Arrays |
@@ -53,6 +58,18 @@ All notebooks are in **one folder**, identified by problem number (LeetCode styl
 | LT875_Koko_Eating_Bananas.ipynb | Koko Eating Bananas |
 | LT973_K_Closest_Points_to_Origin.ipynb | K Closest Points to Origin |
 | LT1135_Connecting_Cities_With_Minimum_Cost.ipynb | Connecting Cities With Minimum Cost |
+| GK_karatsuba_algorithm.ipynb | Karatsuba Algorithm |
+| GK_power_function_exponentiation_by_squaring.ipynb | Power Function (Exponentiation by Squaring) |
+| GK_knapsack_problem.ipynb | 0/1 Knapsack Problem |
+| GK_rod_cutting_problem.ipynb | Rod Cutting Problem |
+| GK_subset_sum_problem.ipynb | Subset Sum Problem |
+| GK_partition_problem.ipynb | Partition Problem |
+| GK_detect_cycle_in_a_directed_graph.ipynb | Detect Cycle in a Directed Graph |
+| GK_huffman_encoding.ipynb | Huffman Encoding |
+| GK_consolidated_sorting_algorithms.ipynb | Consolidated Sorting Algorithms |
+| GK_ways_to_cover_a_distance.ipynb | Ways to Cover a Distance |
+| GK_max_product_cutting.ipynb | Max Product when Cutting Rope |
+| GK_dice_throw_problem.ipynb | Dice Throw Problem |
 
 > **Note:** Add new notebooks using the naming convention `LT###_Problem_Name.ipynb`.
 
